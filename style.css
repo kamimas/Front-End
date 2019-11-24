@@ -1,0 +1,57 @@
+body {
+  background-color: #0a1019;
+}
+
+.box1 {
+  width: 1366px;
+  height: 700px;
+  margin: 20px auto;
+  background-color: #8b94a1;
+  border-radius: 30px;
+}
+
+.region1 {
+  padding: 50px;
+}
+
+
+.region2 {
+
+    text-align: center;
+}
+
+
+.keyw{
+    text-align: center;
+    margin: 10px;
+    width: 50px;
+    height: 50px;
+    background-color: white;
+    border-radius: 15px;
+}
+
+.key{
+    text-align: center;
+    
+    width: 45px;
+    height: 45px;
+    background-color: white;
+}
+
+.connectedStyle {
+  width: 12px;
+  height: 12px;
+  margin-right: 7px;
+  margin-top: 3px;
+}
+
+.box{
+    background-color: #8b94a1;
+    width: 20px;
+    height: 20px;
+}
+
+
+.newClass{
+    background-color: green;
+}
